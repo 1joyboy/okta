@@ -129,18 +129,6 @@ print("\n".join(new_list))
     
 
 
-
-##If get error, how to catch this error from breaking loop ## when limit to 2
-# 0oa1hsx3tnw4oRiCk1d8 kibana-prod-aws-ap-southeast-2
-# Traceback (most recent call last):
-#   File "LIST_apps_pagination.py", line 50, in <module>
-#     get_app_id()
-#   File "LIST_apps_pagination.py", line 48, in get_app_id
-#     print(app['id'],app['label'])
-# TypeError: string indices must be integers
-# tchen@C02G7942MD6R okta % 
-
-
 #watch
 #https://www.youtube.com/watch?v=bD05uGo_sVI
 #https://www.youtube.com/watch?v=6iF8Xb7Z3wQ
